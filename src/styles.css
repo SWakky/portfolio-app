@@ -1,0 +1,11 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.Header {
+  background-color: gray;
+  height: 10vh;
+  display: flex;
+  justify-content: space-around;
+}
